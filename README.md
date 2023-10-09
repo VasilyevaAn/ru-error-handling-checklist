@@ -40,4 +40,4 @@
 Если вернется содержимое файла, то это XXE
 
 ## Дополнительные матерьялы
-* [Статья](https://teletype.in/@8ug8eer/error_handler_security_problem)
+* Статья [Не все "ошибки" одинаково полезны - с точки зрения безопасности.](https://teletype.in/@8ug8eer/error_handler_security_problem)
